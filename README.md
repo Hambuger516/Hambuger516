@@ -2,15 +2,16 @@
 
 PhD researcher in **Electrical and Electronic Engineering** at **The University of Manchester**, supervised by Zhongguo Li and Zhengtao Ding.
 
-I study scheduling, load balancing, and online control for heterogeneous distributed systems, with a focus on **large language model inference serving**.
+My research interests are **embodied AI, distributed systems, large language model inference, and optimization**.
 
 [Academic website](https://Hambuger516.github.io/) · [Academic CV](https://Hambuger516.github.io/cv.html) · [ORCID](https://orcid.org/0009-0000-9369-2445) · [Google Scholar](https://scholar.google.com/citations?user=ZoyUexQAAAAJ&hl=en)
 
 ### Research interests
 
-- LLM serving: admission control, KV-cache management, and latency-aware scheduling.
-- Heterogeneous systems: resource allocation, GPU pipeline placement, and multi-objective optimization.
-- Distributed computing: graph-based load balancing and automated system configuration.
+- Embodied AI · 具身智能
+- Distributed Systems · 分布式系统
+- Large Language Model Inference · 大语言模型推理
+- Optimization · 优化
 
 ### Selected publications
 
