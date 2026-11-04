@@ -34,6 +34,12 @@ I study scheduling, load balancing, and online control for heterogeneous distrib
 
 ### Co-authored publications
 
+- **[Reinforcement Learning Post-Training for Reasoning Large Language Models: Methods, Systems, and Evaluation](https://doi.org/10.1142/S2301385028300065)**  
+  Unmanned Systems, 2026. Author 7 of 9.
+
+- **[Coordinated Risk-Averse Bidding and Distributed Benefit Allocation for Multi-VPP Systems in the Day-Ahead Market](https://discovery.ucl.ac.uk/id/eprint/10223976/)**  
+  2026 45th Chinese Control Conference (CCC), 2026. Author 2 of 4.
+
 - **[Multiagent Reinforcement Learning for Cross-Day Coordination of ADN–VPP Systems With UAV Charging Services](https://doi.org/10.1109/TII.2026.3733879)**  
   IEEE Transactions on Industrial Informatics, 2026. Author 2 of 3.
 
@@ -45,6 +51,14 @@ I study scheduling, load balancing, and online control for heterogeneous distrib
 
 - **[Multi-Agent Air Combat Decision-making Based on Battlefield Attention Information](https://doi.org/10.1109/ICNSC62968.2024.10759887)**  
   2024 International Conference on Networking, Sensing and Control (ICNSC), 2024. Author 6 of 6.
+
+### Public preprints
+
+- **[Guided Action Flow: Value-Guided Sampling for Frozen Vision-Language-Action Policies](https://arxiv.org/abs/2607.02092)**  
+  arXiv:2607.02092, 2026. Preprint.
+
+- **[WAM-OPD: Joint Video-Action Supervision for World Action Model Post-Training with On-Policy Distillation](https://arxiv.org/abs/2608.22364)**  
+  arXiv:2608.22364, 2026. Preprint.
 
 ### Research software
 
