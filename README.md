@@ -14,6 +14,9 @@ I study scheduling, load balancing, and online control for heterogeneous distrib
 
 ### Selected publications
 
+- **[Load balancing for large language model inference serving: A control and learning oriented survey](https://doi.org/10.1016/j.neucom.2026.134973)**  
+  Neurocomputing, 2026.
+
 - **[A Transformer-Initialized Dual-Population Evolution for Large-Scale Task Scheduling in Heterogeneous Distributed Systems](https://doi.org/10.1109/TII.2025.3644898)**  
   IEEE Transactions on Industrial Informatics, 2026.
 
@@ -28,6 +31,20 @@ I study scheduling, load balancing, and online control for heterogeneous distrib
 
 - **[DMGA: A Directional-Mutation Genetic Algorithm for CDMS Problem of Kafka](https://doi.org/10.1109/ICNSC62968.2024.10760029)**  
   2024 International Conference on Networking, Sensing and Control (ICNSC), 2024.
+
+### Co-authored publications
+
+- **[Multiagent Reinforcement Learning for Cross-Day Coordination of ADN–VPP Systems With UAV Charging Services](https://doi.org/10.1109/TII.2026.3733879)**  
+  IEEE Transactions on Industrial Informatics, 2026. Author 2 of 3.
+
+- **[Network Traffic Prediction with Decomposition and Multi-Scale Autocorrelation in Large-Scale Cloud Data Centers](https://doi.org/10.1109/ICNSC62968.2024.10760098)**  
+  2024 International Conference on Networking, Sensing and Control (ICNSC), 2024. Author 4 of 7.
+
+- **[3D Object Detection with Twin-Surface Depth Completion and Pseudo-LiDAR Grid Fusion](https://doi.org/10.1109/ICNSC62968.2024.10760141)**  
+  2024 International Conference on Networking, Sensing and Control (ICNSC), 2024. Author 6 of 6.
+
+- **[Multi-Agent Air Combat Decision-making Based on Battlefield Attention Information](https://doi.org/10.1109/ICNSC62968.2024.10759887)**  
+  2024 International Conference on Networking, Sensing and Control (ICNSC), 2024. Author 6 of 6.
 
 ### Research software
 
